@@ -38,3 +38,15 @@ for example `grafana-clock-panel` — and Grafana installs them on every start.
 
 The app is limited to 1 CPU and 512 MiB of memory. Raise `limits` in
 `template.yaml` for many users or heavy dashboards.
+
+---
+
+<!-- cubeship-crosslink -->
+
+## About Cubeship
+
+This is a template for [**Cubeship**](https://github.com/cubeshipd/cubeship) —
+a PaaS you run on your own server: `docker push`, and it is live, with HTTPS,
+a database beside it, and a second machine when one stops being enough.
+
+Browse every template at [cubeship.dev/templates](https://cubeship.dev/templates).
